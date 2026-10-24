@@ -1,5 +1,7 @@
 # Course Sprint
 
+English | [简体中文](README.zh-CN.md)
+
 A lightweight Codex skill that turns course materials into connected, exam-focused study guides. It helps learners understand the subject, choose appropriate methods, and write complete answers when study time is limited.
 
 The skill contains reusable instructions in [SKILL.md](SKILL.md). It works with PowerPoint, PDF, and Word materials that your agent can access and read. Document extraction and visual inspection depend on the tools available in your environment.
