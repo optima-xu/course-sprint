@@ -65,6 +65,3 @@ and write a complete proof. Include one worked example and one variation.
 - Source references for key results and examples.
 - Clear identification of topics covered only briefly or left uncovered.
 
-The instructions are written in English; generated study content follows your requested language. Schedules, progress tracking, and interactive tutoring are added only when requested.
-
-Exam emphasis should follow supplied syllabi, sample papers, or marking schemes. Course Sprint does not invent likely exam questions or guarantee grades. Check uncertain formulas and interpretations against the original materials.
